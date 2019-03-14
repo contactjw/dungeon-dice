@@ -4,7 +4,7 @@
 //  Created by John West on 3/13/19.
 //  Copyright © 2019 John West. All rights reserved.
 //
-// This program simulates the rolling of a dice for Dungeons and Dragons.
+// This program simulates the rolling of a die for Dungeons and Dragons.
 
 #include <iostream>
 #include <cstdlib>
